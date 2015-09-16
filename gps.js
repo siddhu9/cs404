@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node 
 var b=require('bonescript');
 var nmea =require('nmea');
 var port ='/dev/tty04';
